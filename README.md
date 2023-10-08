@@ -19,5 +19,8 @@ An open-source UI component library for building high-quality, accessible design
 | typescript   | 4.9.3   |
 | vite| 4.0.0   |
 | @radix-ui/themes | 4.0.0   |
+| tailwindcss | 3.3.3   |
+| postcss | 8.4.31   |
+| autoprefixer | 10.4.16   |
 
 [![Conventional Commit Friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
